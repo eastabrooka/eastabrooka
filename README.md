@@ -6,9 +6,10 @@ I like to solve problems, understand the way things work, and create interesting
 
 ## Hobbies
 #### Running 🏃 
-Although 2020 has been an '''Off Year''' for me. In 2019 I traveled the country doing multiple ultra-marathons. 
+Back in Training for Endure24 2023. 
 
 I keep a list of the major events that I have done here : https://github.com/eastabrooka/BestOfRunning
+
 
 #### Reading 📚📙 
 Big fan of Audiobooks. Goes hand-in-hand with running, walking, hiking. 
