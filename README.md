@@ -1,7 +1,5 @@
 # Alex Eastabrook
 
-## Gitlab 'Proof' - ticket #3167
-
 ## About Me
 I like to solve problems, understand the way things work, and create interesting or novel things.
 >With this being said : *I feel like I found a good fit with a career in Engineering.* 
