@@ -1,37 +1,51 @@
 # Alex Eastabrook
 
-## About Me
-I like to solve problems, understand the way things work, and create interesting or novel things.
->With this being said : *I feel like I found a good fit with a career in Engineering.* 
+**Engineer by profession. Maker by choice.**
 
-## Hobbies
-#### Running 🏃 
-Back in Training for Endure24 2023. 
+I'm an electronics and embedded systems engineer who enjoys understanding how things work, solving problems, and turning interesting ideas into real things.
 
-I keep a list of the major events that I have done here : https://github.com/eastabrooka/BestOfRunning
+My professional background spans firmware development, electronics design and embedded systems engineering.
 
+Outside of work, I apply many of those same skills to my own projects, often exploring ideas simply because they're interesting, challenging or just a little unconventional.
 
-#### Reading 📚📙 
-Big fan of Audiobooks. Goes hand-in-hand with running, walking, hiking. 
+I believe some of the best engineering starts with curiosity.
 
-I keep a list of most of the books that I read here : https://github.com/eastabrooka/Books 
+## 🔧 Engineering & Making
 
-#### Making 📐🔩🔨
-I enjoy DIY, Woodworking, Electronic tinkering, and generally 'Making Stuff'. 
+I'm interested in the entire process of creating something — from the initial idea, through design and prototyping, to the inevitable debugging and eventual satisfaction of getting it working.
 
-I want to add some completed DIY Projects soon. 
+My interests include:
 
-<!--
-**eastabrooka/eastabrooka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Electronics & Embedded Systems** — Microcontrollers, custom PCBs, sensors and hardware development.
+- **Firmware & Software** — Making hardware do interesting things.
+- **3D Printing & CAD** — Designing functional parts and bringing ideas into the physical world.
+- **DIY & Woodworking** — Practical projects, repairs and making things from scratch.
+- **Self-Hosting & Automation** — Linux, servers and occasionally overcomplicating my own infrastructure.
 
-Here are some ideas to get you started:
+Some projects solve real problems. Others begin with *"I wonder if I could make that..."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Both are equally valid reasons to get started.
+
+## 🛠️ EastMakes
+
+**EastMakes** is where I share my engineering experiments, personal projects and occasional adventures in making things.
+
+From custom electronics to complete hardware builds, I enjoy documenting not just the finished result but also the design decisions, challenges and lessons along the way.
+
+## 📚 Beyond Engineering
+
+### Reading
+
+I'm a big fan of books, particularly audiobooks, which pair rather nicely with walking, travelling and spending time away from a screen.
+
+I keep a record of my reading here:
+
+📖 [My Reading List →](https://github.com/eastabrooka/Books)
+
+### Running & Exploring
+
+I've taken part in a variety of running events over the years. Although I've stepped away from the hobby for now, it's given me some memorable experiences along the way.
+
+Some of my more memorable adventures are documented here:
+
+🏃 [Best of Running →](https://github.com/eastabrooka/BestOfRunning)
